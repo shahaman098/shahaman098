@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aman Kumar Sah</h1>
-<h3 align="center">A passionate learner from Kathmandu, Nepal</h3>
+<h3 align="center">A passionate learner from Uxbridge, London</h3>
 
 <img align="right" alt="coding" width="400" src="https://www.bing.com/th/id/OGC.2c41f9b5411045e59ef08bbe5045773e?pid=1.7&rurl=https%3a%2f%2fcdn.dribbble.com%2fusers%2f926537%2fscreenshots%2f4502924%2fpython-2.gif&ehk=i83YuhE1GIHkrZR9g5vC8GTwvYWDuLr%2fOqjeeNlrvFM%3d">
 
