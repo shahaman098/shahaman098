@@ -6,13 +6,9 @@
 -->
 
 <div align="center">
-  <img alt="Aman Kumar Sah profile photo" width="220" src="https://amankumarsah.com.np/Profile.png" />
-  <h1>
-    <a href="https://amankumarsah.com.np">
-      <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=30&duration=4000&pause=100000&color=8C5E34&center=true&vCenter=true&repeat=false&width=420&lines=Aman+Kumar+Sah" alt="Aman Kumar Sah" />
-    </a>
-  </h1>
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=20&duration=3200&pause=900&color=B57614&center=true&vCenter=true&width=820&lines=Cloud+%2F+Platform+%2F+Backend;Building+AI%2C+healthtech%2C+and+web+products;Shipping+across+TypeScript%2C+Python%2C+and+automation;Focused+on+practical+software+that+ships;Based+in+the+United+Kingdom" alt="Aman Kumar Sah profile summary" />
+  <a href="https://amankumarsah.com.np">
+    <img src="./assets/profile-hero.gif" alt="Animated case-study hero for Aman Kumar Sah showing portrait, focus areas, and featured project themes" width="100%" />
+  </a>
 </div>
 
 <p align="center">
