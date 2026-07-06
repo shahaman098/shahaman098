@@ -68,39 +68,25 @@ These projects show the range of what I build in public: AI assistants, health-r
 
 ## Other Open Source Projects
 
-<div align="center">
-  <a href="https://github.com/shahaman098/openclaw">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=shahaman098&repo=openclaw&theme=gruvbox&hide_border=true" alt="openclaw repository card" />
-  </a>
-  <a href="https://github.com/shahaman098/Defib">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=shahaman098&repo=Defib&theme=gruvbox&hide_border=true" alt="Defib repository card" />
-  </a>
-</div>
-
-<div align="center">
-  <a href="https://github.com/shahaman098/OrchestrAI">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=shahaman098&repo=OrchestrAI&theme=gruvbox&hide_border=true" alt="OrchestrAI repository card" />
-  </a>
-  <a href="https://github.com/shahaman098/BrunelOnChain">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=shahaman098&repo=BrunelOnChain&theme=gruvbox&hide_border=true" alt="BrunelOnChain repository card" />
-  </a>
-</div>
-
-<div align="center">
-  <a href="https://github.com/shahaman098/ProofChain">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=shahaman098&repo=ProofChain&theme=gruvbox&hide_border=true" alt="ProofChain repository card" />
-  </a>
-  <a href="https://github.com/shahaman098/clinical-ai-hackathon">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=shahaman098&repo=clinical-ai-hackathon&theme=gruvbox&hide_border=true" alt="clinical-ai-hackathon repository card" />
-  </a>
-</div>
+| Project | Snapshot |
+|:---|:---|
+| [openclaw](https://github.com/shahaman098/openclaw) | Personal AI assistant. ![Stars](https://img.shields.io/github/stars/shahaman098/openclaw?style=flat-square) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white) |
+| [Defib](https://github.com/shahaman098/Defib) | DAO quorum rescue agent with auditable on-chain reasoning. ![Stars](https://img.shields.io/github/stars/shahaman098/Defib?style=flat-square) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white) |
+| [OrchestrAI](https://github.com/shahaman098/OrchestrAI) | AI shopping agent for discovery, ranking, and checkout. ![Stars](https://img.shields.io/github/stars/shahaman098/OrchestrAI?style=flat-square) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) |
+| [BrunelOnChain](https://github.com/shahaman098/BrunelOnChain) | One-click onboarding and thematic trading UX for Hyperliquid using LI.FI. ![Forks](https://img.shields.io/github/forks/shahaman098/BrunelOnChain?style=flat-square) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white) |
+| [ProofChain](https://github.com/shahaman098/ProofChain) | Decentralised hate crime reporting network built on Algorand. ![Forks](https://img.shields.io/github/forks/shahaman098/ProofChain?style=flat-square) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) |
+| [clinical-ai-hackathon](https://github.com/shahaman098/clinical-ai-hackathon) | Clinical AI hackathon starting point. ![Stars](https://img.shields.io/github/stars/shahaman098/clinical-ai-hackathon?style=flat-square) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) |
 
 ---
 
 ## Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=shahaman098&theme=gruvbox&no-frame=true&no-bg=true&column=7&margin-w=10" alt="GitHub trophies" />
+  <img src="https://img.shields.io/badge/Public_Repos-63-C97A40?style=for-the-badge" alt="63 public repos" />
+  <img src="https://img.shields.io/badge/Followers-10-5B8C5A?style=for-the-badge" alt="10 followers" />
+  <img src="https://img.shields.io/badge/Public_Stars-3-D4A017?style=for-the-badge" alt="3 public stars" />
+  <img src="https://img.shields.io/badge/GitHub_Since-2022-1F2328?style=for-the-badge" alt="GitHub since 2022" />
+  <img src="https://img.shields.io/badge/Core_Stack-TypeScript_%26_Python-8C5E34?style=for-the-badge" alt="TypeScript and Python" />
 </div>
 
 ---
@@ -154,13 +140,19 @@ These projects show the range of what I build in public: AI assistants, health-r
 ## GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=shahaman098&show_icons=true&theme=gruvbox&hide_border=true&rank_icon=github" alt="GitHub stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahaman098&layout=compact&theme=gruvbox&hide_border=true&langs_count=8" alt="Top languages" />
+  <img src="https://img.shields.io/badge/Following-46-0A66C2?style=for-the-badge" alt="46 following" />
+  <img src="https://img.shields.io/badge/Public_Gists-0-6B7280?style=for-the-badge" alt="0 public gists" />
+  <img src="https://img.shields.io/badge/Focus-Cloud%20%2F%20Platform%20%2F%20Backend-5B8C5A?style=for-the-badge" alt="Cloud Platform Backend focus" />
 </div>
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=shahaman098&theme=gruvbox&hide_border=true&card_width=500" alt="GitHub streak stats" />
-</div>
+| Metric | Value |
+|:---|:---|
+| Public repositories | 63 |
+| Followers | 10 |
+| Following | 46 |
+| Public stars across public repos | 3 |
+| Public gists | 0 |
+| GitHub account created | November 2022 |
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=shahaman098&theme=github-dark&hide_border=true&area=true" />
