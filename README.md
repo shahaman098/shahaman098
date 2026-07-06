@@ -1,59 +1,69 @@
-<h1 align="center">Hi 👋, I'm Aman Kumar Sah</h1>
-<h3 align="center">Aspiring Cloud & DevOps Engineer | AI & Web Systems Enthusiast | Based in London, UK</h3>
-
----
-
-<img align="right" alt="Coding animation" width="400" src="https://cdn.dribbble.com/users/926537/screenshots/4502924/python-2.gif"/>
-
-### 👨‍💻 About Me
-
-- 🌱 Currently learning **Internet Software Architecture & Cloud Computing**
-- 💡 Passionate about the intersection of **AI, Automation, and Web Technologies**
-- 📫 Reach me at: **amanshah0844@gmail.com**
-- ⚡ Fun fact: **I love taking on challenges and learning new things!**
-
----
-
-### 🌐 Connect with Me:
-
-<p align="left">
-  <a href="mailto:amanshah0844@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/gmail.svg" height="30" width="40"/>
-  </a>
-  <a href="https://linkedin.com/in/your-linkedin" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" height="30" width="40"/>
-  </a>
-  <a href="https://github.com/shahaman098" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" height="30" width="40"/>
-  </a>
+<h1 align="center">Aman Kumar Sah</h1>
+<p align="center">
+  Final-year student | Builder of AI, healthtech, and web products | United Kingdom
 </p>
-
----
-
-### 🛠️ Languages & Tools:
-
-<p align="left"> 
-  <a href="https://www.python.org" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/>
-  </a>
-  <a href="https://www.mysql.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/>
-  </a>
-  <a href="https://www.docker.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40" height="40"/>
-  </a>
-  <a href="https://kubernetes.io/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" width="40" height="40"/>
-  </a>
-  <a href="https://aws.amazon.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" width="40" height="40"/>
-  </a>
-</p>
-
----
-
-### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shahaman098&theme=tokyonight" />
+  <a href="https://amankumarsah.com.np">Website</a> ·
+  <a href="https://github.com/shahaman098">GitHub</a> ·
+  <a href="https://github.com/shahaman098?tab=repositories">Repositories</a>
 </p>
+
+---
+
+### About Me
+
+- Final-year student with a strong focus on coding and product building.
+- I like working across AI agents, full-stack web apps, and healthcare-oriented software.
+- I care about practical tools that solve real problems.
+- Personal site: [amankumarsah.com.np](https://amankumarsah.com.np)
+
+---
+
+### Featured Work
+
+- [openclaw](https://github.com/shahaman098/openclaw) - Your own personal AI assistant. Any OS. Any Platform. The lobster way.
+- [Defib](https://github.com/shahaman098/Defib) - An autonomous quorum rescue agent for DAOs that detects proposals at risk of missing quorum and records a Proof of Reasoning on Somnia.
+- [OrchestrAI](https://github.com/shahaman098/OrchestrAI) - AI shopping agent that discovers, ranks, and checks out products across multiple retailers in one conversation.
+- [BrunelOnChain](https://github.com/shahaman098/BrunelOnChain) - One-click onboarding and thematic trading UX for Hyperliquid using LI.FI.
+- [ProofChain](https://github.com/shahaman098/ProofChain) - Decentralised hate crime reporting network built on Algorand.
+- [Plaito](https://github.com/shahaman098/Plaito) - MVP of PearPlay, a betting-style interface where users trade ideas instead of single tokens.
+
+---
+
+### Tech Stack
+
+**AI and Agents**
+
+Python, TypeScript, OpenAI, agent workflows, automation, retrieval, and applied AI product work.
+
+**Frontend and Full Stack**
+
+JavaScript, TypeScript, React, Next.js, HTML, CSS, Tailwind CSS, and full-stack web app development.
+
+**Backend and Data**
+
+Node.js, Python, APIs, databases, data workflows, and integration-heavy systems.
+
+**Product and Delivery**
+
+Prototyping, shipping, iterative product development, and turning ideas into usable software.
+
+---
+
+### GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=shahaman098&show_icons=true&count_private=true&hide_border=true&theme=gruvbox" alt="GitHub stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shahaman098&hide_border=true&theme=gruvbox" alt="GitHub streak stats" />
+</p>
+
+---
+
+### Connect
+
+- Website: [amankumarsah.com.np](https://amankumarsah.com.np)
+- GitHub: [@shahaman098](https://github.com/shahaman098)
