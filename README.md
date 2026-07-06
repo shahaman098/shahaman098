@@ -12,13 +12,13 @@
       <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=30&duration=4000&pause=100000&color=8C5E34&center=true&vCenter=true&repeat=false&width=420&lines=Aman+Kumar+Sah" alt="Aman Kumar Sah" />
     </a>
   </h1>
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=20&duration=3200&pause=900&color=B57614&center=true&vCenter=true&width=820&lines=Cloud+%2F+Platform+%2F+Backend;Building+AI%2C+healthtech%2C+and+web+products;Shipping+across+TypeScript%2C+Python%2C+and+automation;63+public+repos+and+counting;Based+in+the+United+Kingdom" alt="Aman Kumar Sah profile summary" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=20&duration=3200&pause=900&color=B57614&center=true&vCenter=true&width=820&lines=Cloud+%2F+Platform+%2F+Backend;Building+AI%2C+healthtech%2C+and+web+products;Shipping+across+TypeScript%2C+Python%2C+and+automation;Focused+on+practical+software+that+ships;Based+in+the+United+Kingdom" alt="Aman Kumar Sah profile summary" />
 </div>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=shahaman098&label=Profile%20Views&color=8C5E34&style=for-the-badge" alt="Profile views" />
   <img src="https://img.shields.io/github/followers/shahaman098?label=Followers&style=for-the-badge&color=5B8C5A" alt="GitHub followers" />
-  <img src="https://img.shields.io/badge/Public%20Repos-63-C97A40?style=for-the-badge" alt="63 public repositories" />
+  <img src="https://img.shields.io/badge/Public%20Repos-62-C97A40?style=for-the-badge" alt="62 public repositories" />
   <img src="https://img.shields.io/badge/Total%20Stars-3-D4A017?style=for-the-badge" alt="3 total public stars" />
 </p>
 
@@ -82,7 +82,7 @@ These projects show the range of what I build in public: AI assistants, health-r
 ## Trophies
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Public_Repos-63-C97A40?style=for-the-badge" alt="63 public repos" />
+  <img src="https://img.shields.io/badge/Public_Repos-62-C97A40?style=for-the-badge" alt="62 public repos" />
   <img src="https://img.shields.io/badge/Followers-10-5B8C5A?style=for-the-badge" alt="10 followers" />
   <img src="https://img.shields.io/badge/Public_Stars-3-D4A017?style=for-the-badge" alt="3 public stars" />
   <img src="https://img.shields.io/badge/GitHub_Since-2022-1F2328?style=for-the-badge" alt="GitHub since 2022" />
@@ -147,7 +147,7 @@ These projects show the range of what I build in public: AI assistants, health-r
 
 | Metric | Value |
 |:---|:---|
-| Public repositories | 63 |
+| Public repositories | 62 |
 | Followers | 10 |
 | Following | 46 |
 | Public stars across public repos | 3 |
