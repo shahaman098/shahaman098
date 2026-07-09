@@ -7,7 +7,7 @@
 
 <div align="center">
   <a href="https://amankumarsah.com.np">
-    <img src="./assets/profile-hero.gif" alt="Animated case-study hero for Aman Kumar Sah showing portrait, focus areas, and featured project themes" width="100%" />
+    <img src="./assets/profile-hero.png" alt="Minimal profile header for Aman Kumar Sah" width="100%" />
   </a>
 </div>
 
