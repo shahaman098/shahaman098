@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 300" role="img" aria-labelledby="title description">
+  <title id="title">Aman Kumar Sah</title>
+  <desc id="description">Software engineer building reliable cloud, platform, backend, and AI systems.</desc>
+  <defs>
+    <linearGradient id="surface" x1="0" x2="1" y1="0" y2="0">
+      <stop offset="0" stop-color="#0d0f12"/>
+      <stop offset="0.68" stop-color="#101216"/>
+      <stop offset="1" stop-color="#17130f"/>
+    </linearGradient>
+    <linearGradient id="gridFade" x1="0" x2="1" y1="0" y2="0">
+      <stop offset="0" stop-color="#d7a44c" stop-opacity="0"/>
+      <stop offset="1" stop-color="#d7a44c" stop-opacity="0.2"/>
+    </linearGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M32 0H0V32" fill="none" stroke="#f2efe8" stroke-opacity="0.07"/>
+    </pattern>
+  </defs>
+
+  <rect width="1280" height="300" fill="url(#surface)"/>
+  <rect x="815" width="465" height="300" fill="url(#grid)"/>
+  <rect x="815" width="465" height="300" fill="url(#gridFade)"/>
+  <path d="M958 0V300M1118 0V300" stroke="#d7a44c" stroke-opacity="0.13"/>
+  <circle cx="1118" cy="150" r="92" fill="none" stroke="#d7a44c" stroke-opacity="0.24" stroke-width="2"/>
+  <circle cx="1118" cy="150" r="56" fill="none" stroke="#7ba36f" stroke-opacity="0.32" stroke-width="2"/>
+
+  <rect x="72" y="51" width="76" height="5" rx="2.5" fill="#d7a44c"/>
+  <rect x="72" y="75" width="5" height="150" rx="2.5" fill="#7ba36f"/>
+  <rect x="84" y="75" width="5" height="96" rx="2.5" fill="#d7a44c"/>
+
+  <text x="108" y="107" fill="#f7f5f0" font-family="Arial, Helvetica, sans-serif" font-size="45" font-weight="700" letter-spacing="1">AMAN KUMAR SAH</text>
+  <text x="108" y="145" fill="#c9cbd1" font-family="Arial, Helvetica, sans-serif" font-size="22">Software Engineer · Cloud, Platform &amp; AI Systems</text>
+  <text x="108" y="188" fill="#d7a44c" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="700">Building dependable products from interface to infrastructure.</text>
+  <text x="108" y="226" fill="#aeb1b8" font-family="monospace" font-size="16" letter-spacing="1">github.com/shahaman098</text>
+
+  <text x="1001" y="135" fill="#d7a44c" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="700" letter-spacing="2">ENGINEERING FOCUS</text>
+  <text x="1001" y="164" fill="#f7f5f0" font-family="Arial, Helvetica, sans-serif" font-size="19" font-weight="700">Practical systems.</text>
+  <text x="1001" y="189" fill="#c9cbd1" font-family="Arial, Helvetica, sans-serif" font-size="16">Clear reasoning. Reliable delivery.</text>
+</svg>

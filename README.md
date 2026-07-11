@@ -7,7 +7,7 @@
 
 <div align="center">
   <a href="https://amankumarsah.com.np">
-    <img src="./assets/profile-hero.png" alt="Aman Kumar Sah - Cloud, platform, and backend engineer" width="100%" />
+    <img src="./assets/profile-hero.svg" alt="Aman Kumar Sah - Software engineer for cloud, platform, and AI systems" width="100%" />
   </a>
 </div>
 
