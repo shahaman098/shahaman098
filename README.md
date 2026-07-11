@@ -51,6 +51,16 @@ I am currently open to graduate, junior, and internship opportunities where I ca
 
 `TypeScript` &middot; `Python` &middot; `React` &middot; `Next.js` &middot; `Node.js` &middot; `FastAPI` &middot; `SQL` &middot; `Docker` &middot; `AWS` &middot; `GitHub Actions` &middot; `OpenAI API`
 
+## GitHub activity
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=shahaman098&amp;theme=dark&amp;hide_border=true&amp;background=0D0F12&amp;stroke=3D414A&amp;ring=D7A44C&amp;fire=D7A44C&amp;currStreakLabel=F7F5F0&amp;sideLabels=C9CBD1&amp;dates=AEB1B8&amp;sideNums=F7F5F0&amp;currStreakNum=F7F5F0" alt="GitHub contribution streak" width="62%" />
+</p>
+
+<picture>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shahaman098&amp;bg_color=0D0F12&amp;color=F7F5F0&amp;line=D7A44C&amp;point=7BA36F&amp;area=true&amp;area_color=D7A44C&amp;hide_border=true&amp;custom_title=Aman%20Kumar%20Sah%27s%20Contribution%20Graph" alt="Aman Kumar Sah's GitHub contribution graph" width="100%" />
+</picture>
+
 ## Let's talk
 
 If you are hiring for a software, platform, backend, or applied-AI role, I would be glad to connect: [amanshah0844@gmail.com](mailto:amanshah0844@gmail.com).
