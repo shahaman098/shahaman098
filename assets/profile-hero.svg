@@ -20,8 +20,38 @@
   <rect x="815" width="465" height="300" fill="url(#grid)"/>
   <rect x="815" width="465" height="300" fill="url(#gridFade)"/>
   <path d="M958 0V300M1118 0V300" stroke="#d7a44c" stroke-opacity="0.13"/>
-  <circle cx="1118" cy="150" r="92" fill="none" stroke="#d7a44c" stroke-opacity="0.24" stroke-width="2"/>
-  <circle cx="1118" cy="150" r="56" fill="none" stroke="#7ba36f" stroke-opacity="0.32" stroke-width="2"/>
+
+  <!-- Connected systems graph (cloud · platform · data · AI) -->
+  <g fill="none" aria-hidden="true">
+    <g stroke="#d7a44c" stroke-opacity="0.32" stroke-width="1.6" stroke-linecap="round">
+      <line x1="1118" y1="150" x2="1008" y2="62"/>
+      <line x1="1118" y1="150" x2="1238" y2="78"/>
+      <line x1="1118" y1="150" x2="1268" y2="158"/>
+      <line x1="1118" y1="150" x2="1208" y2="238"/>
+      <line x1="1118" y1="150" x2="1048" y2="252"/>
+      <line x1="1118" y1="150" x2="918" y2="188"/>
+      <line x1="1008" y1="62" x2="1238" y2="78"/>
+      <line x1="1238" y1="78" x2="1268" y2="158"/>
+      <line x1="1268" y1="158" x2="1208" y2="238"/>
+      <line x1="1048" y1="252" x2="918" y2="188"/>
+      <line x1="1008" y1="62" x2="918" y2="188"/>
+      <line x1="1048" y1="252" x2="1208" y2="238"/>
+    </g>
+    <g stroke="#7ba36f" stroke-opacity="0.22" stroke-width="1.2" stroke-linecap="round">
+      <line x1="972" y1="108" x2="1008" y2="62"/>
+      <line x1="972" y1="108" x2="918" y2="188"/>
+      <line x1="1238" y1="78" x2="1208" y2="238"/>
+    </g>
+    <circle cx="1008" cy="62" r="5.5" fill="#101216" stroke="#d7a44c" stroke-width="1.8" stroke-opacity="0.85"/>
+    <circle cx="1238" cy="78" r="5.5" fill="#101216" stroke="#d7a44c" stroke-width="1.8" stroke-opacity="0.85"/>
+    <circle cx="1268" cy="158" r="5" fill="#101216" stroke="#d7a44c" stroke-width="1.6" stroke-opacity="0.7"/>
+    <circle cx="1208" cy="238" r="5.5" fill="#101216" stroke="#7ba36f" stroke-width="1.8" stroke-opacity="0.8"/>
+    <circle cx="1048" cy="252" r="5.5" fill="#101216" stroke="#7ba36f" stroke-width="1.8" stroke-opacity="0.8"/>
+    <circle cx="918" cy="188" r="5" fill="#101216" stroke="#7ba36f" stroke-width="1.6" stroke-opacity="0.75"/>
+    <circle cx="972" cy="108" r="4" fill="#101216" stroke="#d7a44c" stroke-width="1.4" stroke-opacity="0.55"/>
+    <circle cx="1118" cy="150" r="10" fill="#17130f" stroke="#d7a44c" stroke-width="2.4"/>
+    <circle cx="1118" cy="150" r="4" fill="#d7a44c"/>
+  </g>
 
   <rect x="72" y="51" width="76" height="5" rx="2.5" fill="#d7a44c"/>
   <rect x="72" y="75" width="5" height="150" rx="2.5" fill="#7ba36f"/>
