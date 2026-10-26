@@ -58,7 +58,7 @@ I am currently open to graduate, junior, and internship opportunities where I ca
 </p>
 
 <picture>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shahaman098&amp;bg_color=0D0F12&amp;color=F7F5F0&amp;line=D7A44C&amp;point=7BA36F&amp;area=true&amp;area_color=D7A44C&amp;hide_border=true&amp;custom_title=Aman%20Kumar%20Sah%27s%20Contribution%20Graph" alt="Aman Kumar Sah's GitHub contribution graph" width="100%" />
+  <img src="https://readme-activity-graph.vercel.app/graph?username=shahaman098&amp;bg_color=0D0F12&amp;color=F7F5F0&amp;line=D7A44C&amp;point=7BA36F&amp;area=true&amp;area_color=D7A44C&amp;hide_border=true&amp;custom_title=Aman%20Kumar%20Sah%27s%20Contribution%20Graph" alt="Aman Kumar Sah's GitHub contribution graph" width="100%" />
 </picture>
 
 ## Let's talk
